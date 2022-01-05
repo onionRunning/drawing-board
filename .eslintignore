@@ -1,0 +1,9 @@
+# 忽略检测的文件
+webpack.config.js
+dist/
+plugin/
+bin/
+typings
+
+/node_modules
+node_modules

@@ -1,0 +1,6 @@
+<base-img />
+<view class="add-container" bind:tap="clickAdd">
+66666 {{userName}}
+</view>
+
+<view class="dianwo" bind:tap="clickMe">点我123点我!{{lll}}</view>

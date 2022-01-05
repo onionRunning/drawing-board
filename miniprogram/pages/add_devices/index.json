@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "base-img": "../../components/pixel-canvas/pixel-canvas"
+  }
+}

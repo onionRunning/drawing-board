@@ -1,0 +1,16 @@
+{
+  "name": "drawing-board",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@vant/weapp": "^1.10.1"
+  },
+  "devDependencies": {
+    "miniprogram-api-typings": "^2.8.3-1"
+  }
+}
